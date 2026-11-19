@@ -1,0 +1,39 @@
+{
+  "toolkit": "PyQt6",
+  "canvas": "FigureCanvasQTAgg",
+  "python": "3.12.2",
+  "uptime_s": 22.1,
+  "renders": 44,
+  "render_ms": {
+    "n": 44,
+    "mean": 53.82,
+    "p50": 53.07,
+    "p95": 62.47,
+    "max": 91.64,
+    "points_avg": 4096
+  },
+  "clip_violations": 0,
+  "memory": {
+    "samples": 22,
+    "span_s": 21.1,
+    "rss_start": 119.09,
+    "rss_warm": 161.9,
+    "rss_end": 161.9,
+    "rss_min": 119.09,
+    "rss_max": 161.9,
+    "rss_delta": 42.81,
+    "rss_delta_pct": 35.95,
+    "rss_delta_warm": 0.0,
+    "warmup_s": 60.0,
+    "tail_samples": 1,
+    "slope_mb_per_hour": 0.0,
+    "trend_reliable": false,
+    "threads": 36,
+    "sys_used_pct": 71.1,
+    "sys_avail_gb": 4.54
+  },
+  "points_per_frame": 4096,
+  "stress": true,
+  "report_file": "logs\\pyqt6_20261119_171605_report.txt",
+  "csv_file": "logs\\pyqt6_20261119_171605.csv"
+}

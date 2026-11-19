@@ -1,0 +1,39 @@
+{
+  "toolkit": "Tkinter",
+  "canvas": "FigureCanvasTkAgg",
+  "python": "3.12.2",
+  "uptime_s": 22.8,
+  "renders": 40,
+  "render_ms": {
+    "n": 40,
+    "mean": 60.18,
+    "p50": 57.12,
+    "p95": 73.74,
+    "max": 121.52,
+    "points_avg": 4096
+  },
+  "clip_violations": 0,
+  "memory": {
+    "samples": 23,
+    "span_s": 22.5,
+    "rss_start": 93.36,
+    "rss_warm": 115.4,
+    "rss_end": 115.4,
+    "rss_min": 93.36,
+    "rss_max": 127.7,
+    "rss_delta": 22.04,
+    "rss_delta_pct": 23.61,
+    "rss_delta_warm": 0.0,
+    "warmup_s": 60.0,
+    "tail_samples": 1,
+    "slope_mb_per_hour": 0.0,
+    "trend_reliable": false,
+    "threads": 28,
+    "sys_used_pct": 70.9,
+    "sys_avail_gb": 4.58
+  },
+  "points_per_frame": 4096,
+  "stress": true,
+  "report_file": "logs\\tkinter_20261119_171605_report.txt",
+  "csv_file": "logs\\tkinter_20261119_171605.csv"
+}
